@@ -13,6 +13,6 @@ View Tableau Dashboard on my Tableau Public Profile link -https://public.tableau
 # Screenshots
 
 1. Dashboard
-      <img src = "C:\Users\mehak\OneDrive\Pictures\Screenshots\Screenshot 2022-02-14 145808.png">
+      <img src = "Dahboard1.png">
 
 
