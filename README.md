@@ -13,6 +13,6 @@ View Tableau Dashboard on my Tableau Public Profile link -https://public.tableau
 # Screenshots
 
 1. Dashboard
-      <img src = "Dahboard1.png">
+      ![Dashboard](https://github.com/Mehak0268/CovidDataAnalysis/blob/main/Dashboard1.png)
 
 
